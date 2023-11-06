@@ -1,5 +1,5 @@
 <h1 align="center"> 
-Blazor Web Assembly App: Kanbad Board
+Blazor Web Assembly App: Kanban Board
 </h1>
 <h5 align="center">
 Starting from : November 05, 2023
